@@ -3,7 +3,7 @@ services:
   dbservice:
     image: mysql
     environment:
-      - MYSQL_ROOT_PASSWORD=0721
+      - MYSQL_ROOT_PASSWORD=****
     volumes:
       - ./data:/var/lib/mysql
     ports:
