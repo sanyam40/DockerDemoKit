@@ -1,4 +1,4 @@
-Docker Demo Kit
+# Docker Demo Kit
 This repository provides a collection of Dockerized projects for demonstration purposes. It includes the following components:
 
 - Spring Boot Project
