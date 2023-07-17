@@ -1,5 +1,5 @@
 # Docker Demo Kit 🐬
-This repository provides a collection of Dockerized projects for demonstration purposes.
+This repository provides a collection of Dockerized projects for demonstration purposes
 
 # What is Docker?
 Docker is a containerization technology that enables developers to package applications and their dependencies into self-contained units called containers. Containers are isolated environments that include everything needed to run an application, such as code, runtime, system tools, libraries, and settings. They provide consistency and reproducibility, ensuring that applications run consistently across different environments. It can streamline application development and deployment processes.
